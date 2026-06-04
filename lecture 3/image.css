@@ -1,0 +1,35 @@
+.center{
+    padding-left:500px
+}
+#a{
+    padding-left:630px;
+    color: rgb(164, 63, 80);
+}
+#b{
+    padding-left:600px;
+    color:black
+}
+#c{
+    padding-left: 500px;
+}
+
+#e{
+    height:35px;
+}
+
+table {
+    width: 400px;
+    margin-left: 480px;
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: rgb(255, 0, 102);
+    color: white;
+    padding: 15px;
+    width: 100px;
+    border:2px solid black;
+    font-weight: bold;
+    text-align:center;
+}
